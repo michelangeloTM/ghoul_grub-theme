@@ -1,6 +1,6 @@
 ## Tokyo Ghoul Grub Theme
 
-![](https://github.com/semimqmo/sekiro_grub_theme/blob/main/ghoulgrub.png?raw=true)
+![](https://github.com/michelangeloTM/ghoul_grub_theme/blob/main/ghoulgrub.png?raw=true)
 
 ## How to USE
 
